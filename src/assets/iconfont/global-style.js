@@ -1,4 +1,0 @@
-const extendClick = () => {
-  return `
-    `;
-};
